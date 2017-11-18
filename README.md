@@ -1,1 +1,3 @@
-# praktika_analizator-calculator
+# analprot
+programm include calc and anp;
+has error in apps;
